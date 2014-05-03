@@ -12,3 +12,4 @@
 2014-04-18T17:36:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2014-05-03T02:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2014-05-03T04:32:00 - Late-night bugfix on financial RL environment (litex-boards)
+2014-05-03T18:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

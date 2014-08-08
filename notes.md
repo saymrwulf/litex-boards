@@ -22,3 +22,4 @@
 2014-06-19T05:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2014-07-19T19:19:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2014-07-19T04:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2014-08-08T05:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

@@ -25,3 +25,4 @@
 2014-08-08T05:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2014-08-08T08:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2014-08-09T20:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
+2014-08-09T23:48:00 - Minor doc updates: linking to article on quantization (litex-boards)

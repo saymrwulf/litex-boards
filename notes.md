@@ -32,3 +32,4 @@
 2014-09-03T01:25:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2014-09-03T05:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2014-09-03T01:28:00 - Implementing approach from a new paper read last night (litex-boards)
+2014-09-17T22:06:00 - Refactor for clarity, might break a few tests though (litex-boards)

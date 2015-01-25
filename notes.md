@@ -37,3 +37,4 @@
 2014-09-24T22:09:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2014-09-24T19:39:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2014-09-24T04:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2015-01-25T05:13:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

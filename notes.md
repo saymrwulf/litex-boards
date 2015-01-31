@@ -42,3 +42,4 @@
 2015-01-25T00:22:00 - Implementing approach from a new paper read last night (litex-boards)
 2015-01-31T01:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2015-01-31T02:51:00 - Minor doc updates: linking to article on quantization (litex-boards)
+2015-01-31T21:58:00 - Refactor for clarity, might break a few tests though (litex-boards)

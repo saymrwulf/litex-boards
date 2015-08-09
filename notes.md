@@ -51,3 +51,4 @@
 2015-05-25T01:58:00 - Implementing approach from a new paper read last night (litex-boards)
 2015-05-25T06:55:00 - Implementing approach from a new paper read last night (litex-boards)
 2015-05-25T07:00:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2015-08-09T03:52:00 - Minor doc updates: linking to article on quantization (litex-boards)

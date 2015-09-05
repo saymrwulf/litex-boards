@@ -56,3 +56,4 @@
 2015-09-05T23:08:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2015-09-05T17:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2015-09-05T05:44:00 - Minor doc updates: linking to article on quantization (litex-boards)
+2015-09-05T08:49:00 - Implementing approach from a new paper read last night (litex-boards)

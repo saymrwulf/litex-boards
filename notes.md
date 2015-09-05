@@ -59,3 +59,4 @@
 2015-09-05T08:49:00 - Implementing approach from a new paper read last night (litex-boards)
 2015-09-06T20:50:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2015-09-06T00:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2015-09-06T00:43:00 - Refactor for clarity, might break a few tests though (litex-boards)

@@ -53,3 +53,4 @@
 2015-05-25T07:00:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2015-08-09T03:52:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2015-08-09T06:55:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
+2015-09-05T23:08:00 - Refactor for clarity, might break a few tests though (litex-boards)

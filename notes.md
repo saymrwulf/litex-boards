@@ -58,3 +58,4 @@
 2015-09-05T05:44:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2015-09-05T08:49:00 - Implementing approach from a new paper read last night (litex-boards)
 2015-09-06T20:50:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2015-09-06T00:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

@@ -63,3 +63,4 @@
 2015-09-06T02:56:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2015-09-07T08:20:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2015-10-27T08:42:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2015-11-18T05:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

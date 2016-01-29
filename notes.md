@@ -70,3 +70,4 @@
 2015-11-26T02:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2015-11-26T07:21:00 - Late-night bugfix on financial RL environment (litex-boards)
 2015-11-26T01:54:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2016-01-29T19:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

@@ -71,3 +71,4 @@
 2015-11-26T07:21:00 - Late-night bugfix on financial RL environment (litex-boards)
 2015-11-26T01:54:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2016-01-29T19:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2016-02-25T23:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

@@ -75,3 +75,4 @@
 2016-03-03T08:17:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2016-03-03T06:21:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2016-03-03T18:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2016-03-03T18:51:00 - Refactor for clarity, might break a few tests though (litex-boards)

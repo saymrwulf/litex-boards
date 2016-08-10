@@ -84,3 +84,4 @@
 2016-06-24T22:10:00 - Implementing approach from a new paper read last night (litex-boards)
 2016-06-24T05:48:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2016-06-24T18:16:00 - Minor doc updates: linking to article on quantization (litex-boards)
+2016-08-10T03:35:00 - Minor doc updates: linking to article on quantization (litex-boards)

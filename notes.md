@@ -95,3 +95,4 @@
 2016-11-10T02:54:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2016-11-10T06:41:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2016-11-10T22:10:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2017-03-15T02:21:00 - Minor doc updates: linking to article on quantization (litex-boards)

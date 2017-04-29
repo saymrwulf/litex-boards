@@ -100,3 +100,4 @@
 2017-03-15T03:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2017-04-02T18:03:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2017-04-29T07:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2017-04-29T20:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

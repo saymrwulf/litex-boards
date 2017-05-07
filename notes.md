@@ -104,3 +104,4 @@
 2017-05-07T22:03:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2017-05-07T06:29:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2017-05-07T20:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2017-05-07T07:24:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

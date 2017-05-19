@@ -108,3 +108,4 @@
 2017-05-19T06:42:00 - Implementing approach from a new paper read last night (litex-boards)
 2017-05-19T17:28:00 - Late-night bugfix on financial RL environment (litex-boards)
 2017-05-19T22:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2017-05-20T00:46:00 - Late-night bugfix on financial RL environment (litex-boards)

@@ -109,3 +109,4 @@
 2017-05-19T17:28:00 - Late-night bugfix on financial RL environment (litex-boards)
 2017-05-19T22:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2017-05-20T00:46:00 - Late-night bugfix on financial RL environment (litex-boards)
+2017-05-20T08:36:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

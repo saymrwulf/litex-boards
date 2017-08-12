@@ -113,3 +113,4 @@
 2017-07-29T18:41:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2017-07-29T07:11:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2017-08-12T01:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2017-08-12T20:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

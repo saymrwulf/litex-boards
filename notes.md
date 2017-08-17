@@ -117,3 +117,4 @@
 2017-08-12T01:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2017-08-12T17:26:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2017-08-17T03:55:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2017-08-17T17:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

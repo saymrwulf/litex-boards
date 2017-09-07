@@ -121,3 +121,4 @@
 2017-08-17T19:36:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2017-08-17T22:02:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2017-09-07T07:16:00 - Implementing approach from a new paper read last night (litex-boards)
+2017-09-07T17:19:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

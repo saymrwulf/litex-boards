@@ -123,3 +123,4 @@
 2017-09-07T07:16:00 - Implementing approach from a new paper read last night (litex-boards)
 2017-09-07T17:19:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2017-09-07T23:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2017-09-25T08:05:00 - Late-night bugfix on financial RL environment (litex-boards)

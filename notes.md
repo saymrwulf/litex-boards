@@ -128,3 +128,4 @@
 2017-11-05T06:45:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2017-11-19T01:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2017-11-19T23:00:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2017-12-27T05:17:00 - Late-night bugfix on financial RL environment (litex-boards)

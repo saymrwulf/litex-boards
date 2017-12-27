@@ -130,3 +130,4 @@
 2017-11-19T23:00:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2017-12-27T05:17:00 - Late-night bugfix on financial RL environment (litex-boards)
 2017-12-27T00:17:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2017-12-27T17:26:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

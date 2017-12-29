@@ -133,3 +133,4 @@
 2017-12-27T17:26:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2017-12-27T19:22:00 - Implementing approach from a new paper read last night (litex-boards)
 2017-12-29T00:25:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2017-12-29T03:15:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

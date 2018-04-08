@@ -136,3 +136,4 @@
 2017-12-29T03:15:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2018-01-04T17:20:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2018-01-04T17:01:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2018-04-08T05:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

@@ -139,3 +139,4 @@
 2018-04-08T05:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2018-04-08T05:34:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2018-04-08T06:17:00 - Late-night bugfix on financial RL environment (litex-boards)
+2018-05-19T04:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

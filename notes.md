@@ -143,3 +143,4 @@
 2018-05-19T20:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2018-08-28T00:53:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2018-08-28T03:50:00 - Implementing approach from a new paper read last night (litex-boards)
+2018-09-11T19:33:00 - Refactor for clarity, might break a few tests though (litex-boards)

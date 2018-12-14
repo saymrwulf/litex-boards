@@ -147,3 +147,4 @@
 2018-09-11T19:36:00 - Implementing approach from a new paper read last night (litex-boards)
 2018-09-11T23:44:00 - Implementing approach from a new paper read last night (litex-boards)
 2018-09-11T21:24:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2018-12-14T20:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

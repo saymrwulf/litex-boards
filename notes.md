@@ -161,3 +161,4 @@
 2019-01-30T05:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2019-02-28T06:16:00 - Implementing approach from a new paper read last night (litex-boards)
 2019-03-26T03:18:00 - Late-night bugfix on financial RL environment (litex-boards)
+2019-03-26T19:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

@@ -165,3 +165,4 @@
 2019-05-14T05:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2019-06-02T07:46:00 - Late-night bugfix on financial RL environment (litex-boards)
 2019-06-02T22:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2019-06-02T00:38:00 - Refactor for clarity, might break a few tests though (litex-boards)

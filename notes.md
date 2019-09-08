@@ -167,3 +167,4 @@
 2019-06-02T22:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2019-06-02T00:38:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2019-09-08T17:06:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2019-09-08T22:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

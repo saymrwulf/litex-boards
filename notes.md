@@ -169,3 +169,4 @@
 2019-09-08T17:06:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2019-09-08T22:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2019-09-30T08:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2019-10-08T02:13:00 - Implementing approach from a new paper read last night (litex-boards)

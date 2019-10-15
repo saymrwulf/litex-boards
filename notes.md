@@ -172,3 +172,4 @@
 2019-10-08T02:13:00 - Implementing approach from a new paper read last night (litex-boards)
 2019-10-08T22:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2019-10-15T07:02:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2019-10-15T08:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

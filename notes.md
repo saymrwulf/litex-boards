@@ -171,3 +171,4 @@
 2019-09-30T08:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2019-10-08T02:13:00 - Implementing approach from a new paper read last night (litex-boards)
 2019-10-08T22:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2019-10-15T07:02:00 - Refactor for clarity, might break a few tests though (litex-boards)

@@ -175,3 +175,4 @@
 2019-10-15T08:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2019-10-15T17:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2019-10-15T02:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2020-02-01T21:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

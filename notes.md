@@ -181,3 +181,4 @@
 2020-02-23T04:47:00 - Late-night bugfix on financial RL environment (litex-boards)
 2020-02-23T01:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2020-04-16T22:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2020-04-16T22:37:00 - Refactor for clarity, might break a few tests though (litex-boards)

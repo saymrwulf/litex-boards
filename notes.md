@@ -184,3 +184,4 @@
 2020-04-16T22:37:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2020-04-16T23:20:00 - Implementing approach from a new paper read last night (litex-boards)
 2020-05-16T21:01:00 - Implementing approach from a new paper read last night (litex-boards)
+2020-05-16T21:27:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

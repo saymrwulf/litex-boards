@@ -187,3 +187,4 @@
 2020-05-16T21:27:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2020-07-11T02:41:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2020-08-23T06:15:00 - Minor doc updates: linking to article on quantization (litex-boards)
+2020-08-23T05:07:00 - Implementing approach from a new paper read last night (litex-boards)

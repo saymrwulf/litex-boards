@@ -189,3 +189,4 @@
 2020-08-23T06:15:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2020-08-23T05:07:00 - Implementing approach from a new paper read last night (litex-boards)
 2020-08-23T19:17:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2020-08-29T19:25:00 - Refactor for clarity, might break a few tests though (litex-boards)

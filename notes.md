@@ -194,3 +194,4 @@
 2020-08-29T08:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2020-09-09T17:36:00 - Late-night bugfix on financial RL environment (litex-boards)
 2020-09-09T05:17:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2020-09-25T08:36:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

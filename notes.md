@@ -199,3 +199,4 @@
 2020-09-25T04:10:00 - Implementing approach from a new paper read last night (litex-boards)
 2020-10-09T19:42:00 - Implementing approach from a new paper read last night (litex-boards)
 2020-10-09T04:46:00 - Implementing approach from a new paper read last night (litex-boards)
+2020-10-09T23:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

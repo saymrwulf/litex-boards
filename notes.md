@@ -212,3 +212,4 @@
 2021-01-26T03:31:00 - Late-night bugfix on financial RL environment (litex-boards)
 2021-02-04T19:48:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2021-02-04T02:59:00 - Minor doc updates: linking to article on quantization (litex-boards)
+2021-02-04T07:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

@@ -211,3 +211,4 @@
 2021-01-26T17:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2021-01-26T03:31:00 - Late-night bugfix on financial RL environment (litex-boards)
 2021-02-04T19:48:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2021-02-04T02:59:00 - Minor doc updates: linking to article on quantization (litex-boards)

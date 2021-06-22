@@ -224,3 +224,4 @@
 2021-05-01T06:10:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2021-06-22T05:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2021-06-22T22:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2021-06-22T05:44:00 - Implementing approach from a new paper read last night (litex-boards)

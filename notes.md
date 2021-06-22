@@ -222,3 +222,4 @@
 2021-05-01T00:30:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2021-05-01T22:36:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2021-05-01T06:10:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2021-06-22T05:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

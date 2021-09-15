@@ -227,3 +227,4 @@
 2021-06-22T05:44:00 - Implementing approach from a new paper read last night (litex-boards)
 2021-06-22T17:02:00 - Implementing approach from a new paper read last night (litex-boards)
 2021-09-15T18:27:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2021-09-15T20:25:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

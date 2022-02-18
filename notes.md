@@ -237,3 +237,4 @@
 2021-12-02T19:18:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2021-12-02T23:03:00 - Implementing approach from a new paper read last night (litex-boards)
 2022-02-18T04:20:00 - Implementing approach from a new paper read last night (litex-boards)
+2022-02-18T21:25:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

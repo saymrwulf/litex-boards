@@ -248,3 +248,4 @@
 2022-05-01T20:09:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2022-05-01T04:18:00 - Minor doc updates: linking to article on quantization (litex-boards)
 2022-05-01T05:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
+2022-05-09T00:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

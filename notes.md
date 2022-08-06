@@ -252,3 +252,4 @@
 2022-08-06T17:07:00 - Late-night bugfix on financial RL environment (litex-boards)
 2022-08-06T19:24:00 - Late-night bugfix on financial RL environment (litex-boards)
 2022-08-06T03:03:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
+2022-08-06T18:04:00 - Late-night bugfix on financial RL environment (litex-boards)

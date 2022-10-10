@@ -253,3 +253,4 @@
 2022-08-06T19:24:00 - Late-night bugfix on financial RL environment (litex-boards)
 2022-08-06T03:03:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2022-08-06T18:04:00 - Late-night bugfix on financial RL environment (litex-boards)
+2022-10-10T21:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

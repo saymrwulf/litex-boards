@@ -257,3 +257,4 @@
 2022-10-10T17:05:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2023-01-12T19:05:00 - Late-night bugfix on financial RL environment (litex-boards)
 2023-01-12T03:18:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2023-02-13T17:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)

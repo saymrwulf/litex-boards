@@ -268,3 +268,4 @@
 2023-08-13T19:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2023-08-19T04:18:00 - Late-night bugfix on financial RL environment (litex-boards)
 2023-08-19T17:13:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2023-08-19T08:13:00 - Minor doc updates: linking to article on quantization (litex-boards)

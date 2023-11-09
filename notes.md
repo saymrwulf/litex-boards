@@ -275,3 +275,4 @@
 2023-09-28T22:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2023-11-09T21:00:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2023-11-09T04:45:00 - Late-night bugfix on financial RL environment (litex-boards)
+2023-11-09T06:50:00 - Implementing approach from a new paper read last night (litex-boards)

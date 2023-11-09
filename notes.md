@@ -276,3 +276,4 @@
 2023-11-09T21:00:00 - Quick fix, referencing a known issue from the official repo (litex-boards)
 2023-11-09T04:45:00 - Late-night bugfix on financial RL environment (litex-boards)
 2023-11-09T06:50:00 - Implementing approach from a new paper read last night (litex-boards)
+2023-11-09T17:24:00 - Minor doc updates: linking to article on quantization (litex-boards)

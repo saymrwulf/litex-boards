@@ -281,3 +281,4 @@
 2023-11-10T07:58:00 - Refactor for clarity, might break a few tests though (litex-boards)
 2023-12-12T06:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2023-12-12T01:06:00 - Refactor for clarity, might break a few tests though (litex-boards)
+2023-12-26T17:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)

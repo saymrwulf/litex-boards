@@ -284,3 +284,4 @@
 2023-12-26T17:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (litex-boards)
 2024-01-26T19:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2024-01-26T21:50:00 - Implementing approach from a new paper read last night (litex-boards)
+2024-01-29T00:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)

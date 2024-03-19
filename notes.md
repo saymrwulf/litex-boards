@@ -289,3 +289,4 @@
 2024-02-27T21:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
 2024-03-20T05:44:00 - Implementing approach from a new paper read last night (litex-boards)
 2024-03-20T17:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (litex-boards)
+2024-03-20T00:12:00 - Quick fix, referencing a known issue from the official repo (litex-boards)

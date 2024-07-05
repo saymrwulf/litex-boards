@@ -294,3 +294,4 @@
 2024-04-02T03:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (litex-boards)
 2024-07-05T08:12:00 - Late-night bugfix on financial RL environment (litex-boards)
 2024-07-05T01:13:00 - Implementing approach from a new paper read last night (litex-boards)
+2024-07-05T04:45:00 - Refactor for clarity, might break a few tests though (litex-boards)
